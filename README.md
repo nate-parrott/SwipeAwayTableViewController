@@ -2,7 +2,7 @@
 
 A simple subclass of `UITableViewController`. Have your modal TableViewControllers inherit from it, and you'll be able to dismiss them by swiping downwards at the top of the table.
 
-<img src="https://raw.githubusercontent.com/nate-parrott/SwipeAwayTableViewController/master/demo.gif"  style="height:300px" />
+<img src="https://raw.githubusercontent.com/nate-parrott/SwipeAwayTableViewController/master/demo.gif"  width="200" />
 
 ## Usage
 
